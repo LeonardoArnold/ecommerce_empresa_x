@@ -44,8 +44,8 @@ Contribuidor principal: https://www.github.com/LeonardoArnold
 
 ## Código da função soma
 
-'''Javascript 
+´´´Javascript 
 function soma(a,b) {
   return a + b;
 }
-'''
+´´´
