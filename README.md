@@ -38,4 +38,6 @@ __Melhoria 1__, _Melhoria 2_
 ## Links Interessantes:
 [Google](https://www.Google.com)
 
-Contribuidor principal: https:?/www.github.com/LeonardoArnold
+Contribuidor principal: https://www.github.com/LeonardoArnold
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg)]https://www.github.com/LeonardoArnold
