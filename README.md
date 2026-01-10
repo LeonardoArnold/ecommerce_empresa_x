@@ -37,3 +37,5 @@ __Melhoria 1__, _Melhoria 2_
 
 ## Links Interessantes:
 [Google](https://www.Google.com)
+
+Contribuidor principal: https:?/www.github.com/LeonardoArnold
